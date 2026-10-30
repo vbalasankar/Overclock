@@ -82,3 +82,4 @@ npm run lint
 ## ⚠️ Academic Demonstration Disclaimer
 
 OVERCLOCK is developed strictly as a university web application engineering project. All hardware components, simulated competitors, placed bids, countdown timers, and market price movements are simulated demonstration data. No real financial payments, banking interfaces, or commercial transactions are executed.
+# Overclock
