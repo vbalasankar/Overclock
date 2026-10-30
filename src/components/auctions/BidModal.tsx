@@ -246,3 +246,4 @@ export function BidModal({ product, isOpen, onClose }: BidModalProps) {
     </div>
   );
 }
+

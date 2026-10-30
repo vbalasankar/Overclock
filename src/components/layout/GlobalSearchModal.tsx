@@ -159,3 +159,4 @@ export function GlobalSearchModal({ isOpen, onClose }: GlobalSearchModalProps) {
     </div>
   );
 }
+

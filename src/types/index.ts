@@ -83,3 +83,4 @@ export interface MarketMetrics {
   avgBidToValueRatio: number;
   mostCompetitiveCategory: string;
 }
+

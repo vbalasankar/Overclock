@@ -229,3 +229,4 @@ export function generateAnalyticalInsights(products: Product[]): string[] {
 
   return insights;
 }
+
